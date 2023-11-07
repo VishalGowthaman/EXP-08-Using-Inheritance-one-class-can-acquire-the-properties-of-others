@@ -1,6 +1,10 @@
 # EXP:08 Using-Inheritance-one-class-can-acquire-the-properties-of-others
 # Program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 class Parent {
     int parentProperty;
 
